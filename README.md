@@ -1,4 +1,5 @@
 #PickMe Ride Analytics Dashboard | Power BI (Simulated Data)
+
 ##Project Overview
 -This project presents a Power BI dashboard built using simulated PickMe ride-hailing data to analyze ride demand, revenue performance, service quality, and city-level trends across Sri Lanka. The objective is to demonstrate end-to-end Business Intelligence capabilities using Power BI.
 
